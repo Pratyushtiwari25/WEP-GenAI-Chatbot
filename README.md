@@ -8,13 +8,13 @@ This project is a Generative AI chatbot that uses Large Language Models (LLM) an
 
 ## Table of Contents
 
-- (#Introduction)
-- (#Features)
-- (#Installation)
-- (#Usage)
-- (#Dataset)
-- (#Contributing)
-- (#License)
+- Introduction
+- Features
+- Installation
+- Usage
+- Dataset
+- Contributing
+- License
 
 ## Introduction
 
