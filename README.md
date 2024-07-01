@@ -1,65 +1,91 @@
-# chatbot
+# WEP GenAI Chatbot
 
-Readme file-
-
-# RAG Chatbot for Government Schemes under WEP
-
-This project is a Generative AI chatbot that uses Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) technology to provide information about various government schemes under the Women Entrepreneurship Platform (WEP).
-
-## Table of Contents
-
-- Introduction
-- Features
-- Installation
-- Usage
-- Dataset
-- Contributing
-- License
-
-## Introduction
-
-This chatbot leverages state-of-the-art LLM from Hugging Face and FAISS for efficient text retrieval and generation. The chatbot is designed to assist users in finding relevant government schemes under the WEP by answering queries based on a provided dataset.
+WEP GenAI Chatbot is an interactive AI chatbot built using Streamlit that allows users to interact with it through both text and voice inputs. The chatbot leverages LangChain for text processing and Hugging Face's models for text generation. It also utilizes FAISS for efficient similarity search.
 
 ## Features
 
-- **Interactive Chat Interface**: Allows users to interact with the chatbot via a Streamlit web interface.
-- **Retrieval-Augmented Generation (RAG)**: Combines retrieval mechanisms with text generation to provide accurate and relevant responses.
-- **Hugging Face Integration**: Utilizes Hugging Face models for natural language processing tasks.
+- **Audio Recording**: Records audio input from the user.
+- **Speech Recognition**: Converts recorded audio to text using Google's speech recognition.
+- **Text Processing**: Splits text into manageable chunks and creates embeddings.
+- **Retrieval-Augmented Generation (RAG)**: Answers questions based on provided context using a retriever and a language model.
+- **Streamlit UI**: A web interface to interact with the chatbot.
 
 ## Installation
 
-To run this project, follow these steps:
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/wep-genai-chatbot.git
+   cd wep-genai-chatbot
+   ```
 
-1. **Clone the repository**:
-    git clone https://github.com/your-username/rag-chatbot-wep.git
-    cd rag-chatbot-wep
+2. Create a virtual environment and activate it:
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
 
-2. **Install the required dependencies**:
-    pip install -r requirements.txt
-  
+3. Install the required packages:
+   ```sh
+   pip install -r requirements.txt
+   ```
 
-3. **Add your Hugging Face API Key**:
-    - Replace `hg_key` in the code with your Hugging Face API key.
+4. Create a file named `doc_rag_copy.txt` in the root directory and add your text data to it.
 
 ## Usage
 
-To start the chatbot, run the following command:
-streamlit run app.py
+1. Set your Hugging Face API key in the code .
 
-This will launch a Streamlit web application. You can enter your questions about government schemes under WEP into the text input box and receive responses from the chatbot.
+2. Run the Streamlit app:
+   ```sh
+   streamlit run app.py
+   ```
 
-## Dataset
+3. Open the provided local URL in your web browser to interact with the chatbot.
 
-The dataset used by the chatbot contains information on various government schemes under the WEP. The data is loaded from a text file named `doc_rag.txt`. Ensure that this file is in the same directory as your code.
+## Screenshots
+
+1. Chat Interface
+<img width="925" alt="Screenshot 2024-07-01 at 6 20 10 PM" src="https://github.com/Pratyushtiwari25/chatbot/assets/125774489/2b9bf846-5938-4958-b559-0b7fa84adc9a">
+
+
+2. Chat Chaining 
+<img width="863" alt="Screenshot 2024-07-01 at 6 20 12 PM" src="https://github.com/Pratyushtiwari25/chatbot/assets/125774489/db07d9d5-e9d7-41b6-8939-ed7eaa7c805f">
+
+## Code Overview
+
+### `app.py`
+
+- **Audio Recording**: The `record_audio` function captures audio from the user's microphone.
+- **Speech Recognition**: The `transcribe_audio` function converts the recorded audio to text using Google's speech recognition API.
+- **Text Processing**: Text is loaded from a file, split into chunks, and indexed using FAISS.
+- **RAG Chatbot**: The `chat_with_rag` function generates responses based on the user's query and the provided context.
+- **Streamlit UI**: The `main` function sets up the Streamlit interface, handling user inputs and displaying messages.
+
+## Dependencies
+
+- streamlit
+- sounddevice
+- numpy
+- speech_recognition
+- langchain
+- FAISS
+- HuggingFace
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow these steps:
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Open a pull request.
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Streamlit](https://streamlit.io/)
+- [Hugging Face](https://huggingface.co/)
+- [FAISS](https://github.com/facebookresearch/faiss)
+- [LangChain](https://langchain.com/)
+
+---
+
+Feel free to customize this README file further according to your project's specifics and preferences.
