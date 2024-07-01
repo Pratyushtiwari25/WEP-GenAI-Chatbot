@@ -1,0 +1,434 @@
+1.Scheme Name: Mukhyamantri Samekit Hastkargha Vikas Yojna
+  Implementing Agency: Department of Industries
+  Sector: Manufacturing
+  State: Bihar
+  Eligibility: Weavers
+  Scheme Details:
+  Provides new looms in place of old looms
+  Provides corpus funds
+  Supports construction of workshops
+  Implementing Officer: General Manager of the concerned district
+  Target Districts: Bhagalpur and Gaya
+  Link to Government Website: https://state.bihar.gov.in/cache/26/Schemes/SchemeInfo-MSHVY.pdf
+  The scheme seems to be aimed at supporting and developing the handloom industry in the districts of Bhagalpur and Gaya in Bihar. It provides financial assistance and infrastructure support to weavers in these districts.
+
+2.Scheme name: CM Micro and Small Industries Cluster Development Scheme
+  Department of Industries, Bihar
+  The CM Micro and Small Industries Cluster Development Scheme, administered by the Department of Industries in Bihar, aims to support micro and small industries, which are vital for economic development and self-employment generation in the state. Here's an overview of the scheme's objectives and provisions:
+  Objectives:
+  Technological Upgradation:
+  Provide entrepreneurs and artisans with access to new and latest technologies.
+  Upgrade traditional production techniques to meet the demands of the national market.
+  Quality Improvement and Skills Development:
+  Improve product quality through better packaging processes and skills enhancement.
+  Equip entrepreneurs with the necessary information to enhance product presentation and attract more customers.
+  Financial Assistance for Infrastructure:
+  Financial support for setting up various centers including:
+  Design Center
+  Testing Center
+  Effluent Treatment Plant
+  Training Center
+  Raw Material Depot
+  Common Facility Centers:
+  Establish Common Facility Centers (CFCs) under the scheme to provide shared resources and services to micro and small industries.
+  Benefits:
+  Enhanced Competitiveness: By providing access to advanced technologies and improving product quality, the scheme aims to make products more competitive in the market.
+  Self-employment Generation: Supports the growth of micro and small industries, thereby fostering self-employment opportunities.
+  Market Reach: Improves the attractiveness and marketability of products, potentially increasing sales and revenue for businesses.
+  Eligibility:
+  The scheme targets micro and small enterprises operating within Bihar, especially those struggling with outdated production techniques and market competitiveness.
+  Implementation:
+  The Department of Industries, Bihar, oversees the implementation of the scheme, ensuring that the provided resources and support reach the intended beneficiaries.
+
+3.Scheme name: "Chief Minister's Cluster Handloom Development Scheme" run by the Department of Industries in Bihar for weavers. Here are the key points about the scheme:
+  Objective: It aims to increase the income and standard of living of weavers by providing them a corpus fund (margin money) and organizing workshops.
+  It is targeted at weavers who do weaving work on their own looms or work under a master weaver, and have a place to set up looms in their homes.
+  The scheme funds will be transferred directly to the savings account of selected eligible weavers.
+  To be eligible, weavers must have been engaged in weaving work for at least one year.
+  The scheme seems to provide access to business support services, access to finance, business development services, and funding assistance specifically for the handloom weaving community in Bihar.
+  link: https://state.bihar.gov.in/cache/26/Schemes/SchemeInfo-CMHD.pdf provides more details about this scheme by the Bihar government.
+
+4.Scheme name: "Chief Minister's Tasar Development Scheme" run by the Department of Industries in Bihar for farmers engaged in tasar (a type of silk) cultivation. Here are the key points 
+  Objective: It provides access to finance, business support services, funding and business development services for tasar cultivation activities 
+  The scheme is targeted at farmers who have 0.7 hectares or more of upland/high land suitable for tasar plantation 
+  For nursery establishment and tasar plantation over 1 hectare (1975 saplings), the assistance amount is Rs.33,944 per hectare and the beneficiary's contribution is Rs.8,519 
+  For maintenance of the tasar plants in the first year, the assistance is Rs.4,587 per hectare and beneficiary contribution is Rs.1,786. In the second year, the assistance is Rs.6,517 and beneficiary contribution is Rs.2,001 per hectare 
+  For intercropping during the first year only, there is an assistance of Rs.3,333 per hectare and beneficiary contribution of Rs.667 
+  link: https://state.bihar.gov.in/cache/26/Schemes/SchemeInfo-CMTD.pdf provides more details on this tasar development scheme by the Bihar government.
+
+5.Scheme name:"Integrated Development of Food Processing Sector Scheme (IDFPS)" run by the Department of Industries in Bihar. Here are the key details:
+  Objective: It provides access to finance, business support services, funding, and business development services for food processing sector projects in Bihar 
+  Under this scheme, a provision has been made to provide 35% of the project cost as grant, with a maximum limit of Rs. 5 crores 
+  The scheme can be implemented by private investors as well as Special Purpose Vehicles (SPVs)/Companies 
+  For setting up common cluster infrastructure by an SPV, 40% of the project cost (max Rs. 10 crore) will be provided as grant to the SPV. Additionally, individual units in the cluster will get 35% of their project cost (max Rs. 5 crore) as grant 
+  If the SPV itself sets up a production unit, it will be eligible for the same level of grant as a private investor (35% of project cost, max Rs. 5 crore) 
+  At least 5 entrepreneurs/undertakings need to come together to form an SPV under this scheme 
+  The project cost covers land, factory buildings, plant & machinery, R&D, quality control centers, display centers, warehousing, utilities like water, power (including captive plant), and effluent treatment facilities.  
+  Grants for quality control and R&D are also included in the project cost calculation 
+  The scheme is targeted at agri-entrepreneurs working in the food processing sector in Bihar 
+  Link: https://state.bihar.gov.in/cache/26/Schemes/SchemeInfo-IDFPY.pdf
+
+6.Scheme name: "Auxiliary Rate Distribution Program of Metal Kotha (Metal Houses)" run by the Agriculture Department in Bihar for farmers. Here are the key details:
+  Objective: It is a state government scheme that provides metal houses/storage units to farmers at subsidized rates.
+  The purpose of distributing these metal houses is to facilitate proper storage of food grains/agricultural produce for farmers.
+  It comes under the agriculture and allied activities sector, providing business support services and business development services to farmers.
+  The beneficiaries of this scheme are farmers in Bihar.
+  Link: https://state.bihar.gov.in/krishi/cache/29/15-Nov-21/SHOW_DOCS/Auxiliary%20rate%20distribution%20program%20of%20metal%20kotha.pdf
+  So in essence, it is a scheme by the Bihar Agriculture Department to support farmers by providing subsidized metal storage units/houses for storing their food grain/crop produce in a scientific manner to prevent losses.
+
+7.Scheme name: The Government of Bihar, through its Agriculture Department, has launched an initiative aimed at the development of community nurseries for paddy growers. This initiative falls under the state plan and includes provisions for financial assistance to farmers engaged in paddy cultivation.
+  Objective: The main goal is to support paddy growers by developing community nurseries, which can enhance productivity and efficiency in paddy cultivation.
+  Financial Assistance: Each farmer participating in this scheme is eligible for financial assistance amounting to Rs. 6500. This funding is intended to cover the costs associated with setting up and maintaining the community nurseries
+  Scope: The program is specifically targeted at farmers involved in agriculture and allied activities in Bihar, aiming to boost agricultural productivity and support the livelihood of the farming community.
+  This initiative is part of broader efforts by the Bihar Agriculture Department to provide business development services and access to finance for agricultural entrepreneurs, thereby fostering sustainable agricultural practices and improving economic outcomes for farmers in the region.
+  Link: (https://state.bihar.gov.in/krishi/cache/29/15-Nov-21/SHOW_DOCS/Paddy%20community%20nursery%20development.pdf).
+
+8.Scheme name : Diyara Development Scheme, overseen by the Agriculture Department of Bihar, is designed to support farmers involved in the cultivation of specific crops and the installation of necessary irrigation infrastructure. This initiative aims to enhance agricultural productivity and economic stability for farmers in Bihar.
+  Objective:
+  Hybrid Seeds Support: 
+  Gourd's Group and Melons Vegetable: Farmers receive a grant covering 50% of the cost of hybrid seeds, up to a maximum of Rs. 8000 per hectare.
+  Advanced/Hybrid Pea Seeds: A grant of 50% of the cost of these seeds is provided, with a maximum limit of Rs. 7000 per hectar
+  Irrigation Infrastructure:
+  PVC Pipe Boring: A grant covering 50% of the cost for PVC pipe boring is available, with a maximum of Rs. 9000 per uni
+  Advanced Prognosis Production:
+  Pavral Production: Farmers can receive a grant covering 50% of the cost value for Pavral production, up to a maximum of Rs. 24000 per hectare.
+  These grants are aimed at reducing the financial burden on farmers, allowing them to invest in better seeds and irrigation methods, which can lead to increased yields and improved agricultural sustainability.
+  This scheme is part of a broader effort by the Bihar Agriculture Department to provide business development services and access to finance for agricultural entrepreneurs, promoting sustainable and profitable agricultural practices in the region.
+  Link: (https://eastchamparan.nic.in/programmes-and-schemes/).
+
+9.Scheme name: Chief Minister Sharad Seed Extension Scheme
+  Objective: To support farmers in acquiring certified seeds and promoting specific crops.
+  Benefits:
+  Selected farmers receive 20 kg / 08 kg / 04 kg of seeds at a 90% subsidy for wheat, gram/lentil.
+  Grants provided for purchasing certified seeds:
+  Rs. 15 per kg for wheat
+  Rs. 33 per kg for Black Mustard, Mustard, Linseed, Sesame, Soybean
+  Rs. 50 per kg for pulses
+  Rs. 70 per kg for hybrid sunflower, black mustard, mustard seed
+  Additional grants:
+  Rs. 2000 per acre for black mustard/mustard (with beekeeping) and sunflower demonstration (with beekeeping).
+  Link: [East Champaran District Government Website](https://eastchamparan.nic.in/programmes-and-schemes/)
+
+10.Scheme name : Grant for Crop Demonstration
+  Target Group: Farmers in Bihar
+  Objective: To provide financial assistance for various agricultural activities including seed treatment, weedicide, micro-nutrients, and crop demonstrations.
+  Benefits:
+  Grant of Rs. 3,600 per acre per farmer for seed treatment, weedicide, micro-nutrients, and sowing expenditure from Zero Tillage.
+  Rs. 6,000 per acre per farmer for crop-based demonstration (e.g., Wheat from Zero Tillage).
+  Rs. 3,600 per acre per farmer for seed, seed treatment, plant protection, soil treatment for lentil/gram/moong/rajma crop.
+  Rs. 2000 per acre for Rai/mustard demonstration and beekeeping.
+  Link: [East Champaran District Government Website](https://eastchamparan.nic.in/programmes-and-schemes/)
+
+11.Scheme name: Grant for Crop Demonstration
+  Objective:
+  Department: Agriculture Department, Bihar
+  Target Beneficiaries: Farmers
+  Objective: To provide financial support for crop demonstration activities including seed treatment, weedicide, micro nutrients, and sowing expenditure.
+  Benefits: Grants ranging from Rs 3,600 to Rs 6,000 per acre per farmer for various crop demonstrations and treatments.
+  Link: [Scheme Details](https://eastchamparan.nic.in/programmes-and-schemes/)
+
+12.Scheme name : Agro-Forestry (Poplar ETP) Scheme
+  Department: Department of Environment, Forest and Climate Change, Bihar
+  Target Beneficiaries: Farmers/entrepreneurs
+  Objective: Promote short-term commercial poplar plantation, economic strengthening of farmers, increasing greenery, and promoting forest-based industries.
+  Benefits: Provides poplar saplings, incentives for plant care, and grants for successful plantation.
+  Link : [Scheme Details](https://state.bihar.gov.in/cache/36/Media%20Gallery/Scheme%20Info/kvetp1.pdf)
+
+13.Opportunity for Farmer Brothers to Join Agro-forestry Other Species Scheme :
+  Department: Department of Environment, Forest and Climate Change, Bihar
+  Target Beneficiaries : Farmers/entrepreneurs
+  Objective : Economic reinforcement of farmers, increasing greenery, and environmental purification.
+  Benefits : Similar to the Agro-Forestry Scheme, with priority given to larger plantation areas.
+  Link: [Scheme Details](https://state.bihar.gov.in/cache/36/Media%20Gallery/Scheme%20Info/krishivaniki%20_os.pdf)
+
+14.Scheme name: Mukhyamantri Nari Shakti Yojna
+  Department : Social Welfare Department, Bihar
+  Target Beneficiaries : Adolescent girls and women
+  Objective : Integration of social and cultural empowerment for women's development.
+  Benefits : Offers various training, mentoring, and support services for women's empowerment.
+  Link : [Scheme Details](https://state.bihar.gov.in/socialwelfare/SectionInformation.html?editForm&rowId=2868)
+
+15.Scheme name: Mukhyamantri Shram Shakti Yojna
+  Department: Minority Welfare Department, Bihar
+  Target Beneficiaries: Minority students and laborers
+  Objective: Provide technical training and financial support for minority community members.
+  Benefits: Offers training, monthly stipends, loans for self-employment, and support for women left by husbands or relatives.
+  Link: [Scheme Details](https://state.bihar.gov.in/minoritywelfare/SectionInformation.html?editForm&rowId=3407)
+
+16.Scheme name: BICICO Equipment Finance Scheme
+  Objective  : To provide term loans up to Rs. 90 lakhs for the acquisition of machinery/balancing equipment at an interest rate of 15.5% (PLR). The loan is repayable within 5 years.
+  Link  : [BICICO Equipment Finance Scheme](https://ideas.msme.gov.in/StateSchemes.aspx?fName=Bihar 16120.pdf&Mname=BIHAR)
+
+17.Scheme name: BICICO Normal Term Loan
+  Objective  : To provide financial assistance with a repayment period ranging from 8 to 10 years at an interest rate of 15.5% (PLR).
+  Link  : (https://ideas.msme.gov.in/StateSchemes.aspx?fName=Bihar 16120.pdf&Mname=BIHAR)
+
+18.Scheme name: Chief Minister SC/ST/OBC/Women/Young Entrepreneur Scheme
+  Objective  : To provide 50% of the total project cost (per unit) to young girls up to a maximum of Rs. 5,00,000 as an interest free loan repayable in 7 years (84 equal installments). Additionally, 50% of the sanctioned amount, up to Rs. 5,00,000, is given as a grant/subsidy, and Rs. 25,000 per unit is provided for training. Benefits apply to the establishment of new industries under the Bihar Industrial Investment Promotion Policy 2016.
+  Link  :(https://udyami.bihar.gov.in/)
+
+19.Scheme name: Backyard Poultry Unit Distribution Scheme
+  Objective  : To introduce poor and small poultry farmers to improved poultry and low input technology bird rearing. The scheme aims to increase meat and egg production, ensure availability of nutritious food, and improve the financial condition of poultry farmers and their families.
+  Link  : [Backyard Poultry Unit Distribution Scheme](https://agriportal.cg.nic.in/ahd/ahdHi/default.aspx)
+
+20.Scheme name: Goat Unit Distribution Scheme on Grant
+  Objective  : To improve the local nondescript goat breed, increase milk and meat production, improve the financial condition of beneficiaries, and increase per capita meat availability. The scheme runs with a unit cost of Rs. 3000, with 90% government subsidy and 10% beneficiary contribution.
+  Link  :(https://agriportal.cg.nic.in/ahd/PDF_common/202122/targetforyear/7_2021_22_bakaravitranyojna.pdf)
+
+21.Scheme name: Bull Distribution Scheme (100% Grant)
+  Department:   Livestock Development Department  
+  Location:   Chhattisgarh  
+  Target Group:   Farmers  
+  Objectives:  
+  Provide Artificial Insemination (AI) services in remote rural areas for breed improvement.
+  Create employment for Gosewak by distributing bulls on subsidy.
+  Increase milk production and improve the financial condition of farmers through breed improvement.
+  Link:   [Bull Distribution Scheme](https://agriportal.cg.nic.in/ahd/PDF_common/202122/targetforyear/8_2021_22_saandvitranyojna.pdf)
+
+22.Scheme name: Loan Scheme for Women Self-Help Groups (WSHGs)
+  Department:   Department of Women and Child Development  
+  Location:   Chhattisgarh  
+  Target Group:   Women Self-Help Groups  
+  Objectives:  
+  Provide loans to WSHGs on easy terms through Chhattisgarh Mahila Kosh to empower women socially and financially.  Details:  
+  Loan up to ₹50,000 (repaid in 24 installments) initially.
+  Loan up to ₹2 lakh (repaid in 36 installments) subsequently.
+  Interest rate: 3% per annum.
+  Link:   [Loan Scheme for WSHGs](http://cgwcd.gov.in/%E0%A4%8B%E0%A4%A3-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE)
+
+23.Scheme name: Self   Reliance Scheme
+  Department:   Department of Women and Child Development  
+  Location:   Chhattisgarh  
+  Target Group:   Women (widows, unmarried, divorced, sexually harassed, HIV positive, and third gender beneficiaries aged 35   45)
+  Objectives:  
+  Provide skill training to eligible women for self   reliance and employment through the Chief Minister Skill Development Scheme VTP.
+  Link:   [Self   Reliance Scheme](http://cgwcd.gov.in/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A4%A8   %E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE)
+
+24.Scheme name: Efficient Planning Scheme
+  Department:   Department of Women and Child Development  
+  Location:   Chhattisgarh  
+  Target Group:   Women (widows, unmarried, divorced, sexually harassed, HIV positive, and third gender beneficiaries aged 35   45 living under the poverty line)
+  Objectives:  
+  Provide loans up to ₹1 lakh on easy terms for starting businesses.
+  Details:  
+  Loan repayment in 5 years.
+  Interest rate: 6.5% per annum.
+  Link:   [Efficient Planning Scheme](http://cgwcd.gov.in/%E0%A4%B8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE   %E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE)
+
+25.Scheme name:Prashikshan Yojna
+  Department:   Chhattisgarh Handicraft Development Board  
+  Location:   Chhattisgarh  
+  Target Group:   Short   term employed laborers in agriculture and non   agriculture sectors, unemployed youth and girls  
+  Objectives:  
+  Connect traditional/non   traditional craftsmen with short   term laborers and educated unemployed through craft training.
+  Provide self   employment training to help craftsmen compete in the open market.
+  Link:   [Prashikshan Yojna](https://cghandicraft.cgstate.gov.in/sites/default/files/prashikskhan   yojna.pdf)
+
+26.Scheme name:Avjar   Karmshala Yojna
+  Department:   Chhattisgarh Handicraft Development Board  
+  Location:   Chhattisgarh  
+  Target Group:   Traditional and trained handicraftsmen  
+  Objectives:  
+  Provide grants for self   employment setup, including tool equipment and workshop construction.
+  Details:  
+  Grant up to ₹5,000 for tools.
+  Workshop construction grant up to ₹10,000.
+  75% grant for backward/general classes, 100% for SC/ST craftsmen.
+  Link:   [Avjar   Karmshala Yojna](https://cghandicraft.cgstate.gov.in/sites/default/files/avjar   karmshala   yojna.pdf)
+
+27.Scheme name:Sahkari Samiti Arthik Sahayta
+  Department:   Chhattisgarh Handicraft Development Board  
+  Location:   Chhattisgarh  
+  Target Group:   Cooperative societies  
+  Objectives:  
+  Provide financial assistance to cooperative societies/trusts in handicrafts for working capital, workshop construction, advanced tool equipment, and raw material purchase.
+  Details:  
+  Financial assistance up to ₹25,000.
+  Link:   [Sahkari Samiti Arthik Sahayta](https://cghandicraft.cgstate.gov.in/sites/default/files/sahkari   samiti   arthik   sahayta.pdf)
+
+28.Scheme name: Start   up Policy (2019   2024)
+  Department:   Department of Commerce & Industries  
+  Location:   Chhattisgarh  
+  Target Group:   Start   ups  
+  Objectives:  
+  Support start   ups as defined by the Department for Promotion of Industry and Internal Trade.
+  Provide multiple financial and non   financial incentives for start   ups engaged in innovation, development, or improvement of products/services, or with high job creation/wealth creation potential.
+  Link:   [Start   up Policy](https://industries.cg.gov.in/startupcg/pdf/startup%20package%202019   24.pdf)
+
+29.Scheme name:Udyam Aakanksha
+  Department:   Department of Commerce & Industries  
+  Location:   Chhattisgarh  
+  Target Group:   Investors  
+  Objectives:  
+  Facilitate free online registration and self   certification for investors interested in micro, small, and medium enterprises and service businesses.
+  Link:   [Udyam Aakanksha](https://industries.cg.gov.in/Udtank_total_info.aspx)
+
+30.Scheme name:Financial Assistance for Retail Outlets
+  Department:   Cooperative Societies  
+  Location:   Goa  
+  Target Group:   Cooperative societies  
+  Objectives:  
+  Support setting up large and small retail outlets with self   service counters.
+  Details:  
+  Financial assistance through loans, subsidies, share capital, and managerial subsidy.
+  Link:   [Financial Assistance for Retail Outlets](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT47)
+
+31. Scheme name:Financial Assistance for Business Development Planning Programme
+  Target Group:   Cooperative Societies  
+  Location:   Goa  
+  Objective:   Provides financial assistance for the Business Development Planning Programme to societies with credit counters.  
+  Details:    
+  Share Capital Contribution: Rs. 50,000/    for working capital.
+  Subsidy: Rs. 50,000/    per extension counter for infrastructure creation.  
+  Conditions:   Assistance is provided once, and societies must open new extension counters to mobilize deposits.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT48)
+
+32.Scheme name:Financial Incentives on Completion of 50 Years
+  Target Group:   Cooperative Societies  
+  Location:   Goa  
+  Objectives:  Provides a financial incentive to cooperative societies on completing 50 years.  
+  Details:    
+  Incentive: Rs. 2,00,000/    at once.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT50)
+
+33.Scheme name:Loan cum Subsidy for Construction of Godown
+  Target Group:   Cooperative Societies  
+  Location:   Goa  
+  Objectives:  Provides financial support for constructing or purchasing godown   cum   office buildings.  
+  Details:    
+  50% loan and 50% subsidy of total estimated cost approved by PWD.
+  Special terms for societies with 15% or more SC/ST shareholders: 35% loan and 65% subsidy.
+  Maximum: Rs. 12.00 lakhs.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT51)
+
+34.Scheme name: Managerial Subsidy to Dairy/Industrial Cooperative Societies
+  Target Group:   Dairy/Industrial Cooperative Societies  
+  Location:   Goa  
+  Objectives: Provides initial financial assistance for newly registered societies.  
+  Details:    
+  Subsidy: Rs. 25,000/    for initial expenses (salary, wages, etc.).  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT52)
+
+35.Scheme name:One Time Grant to Women’s Self Help Groups
+  Target Group:   Women SHGs  
+  Location:   Goa  
+  Objectives: Provides financial assistance for business   related activities.  
+  Details:    
+  Grant: Rs. 20,000/    one   time for financial upliftment.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT53)
+
+36.Scheme name: Purchase of Transport Vehicle
+  Target Group:   Cooperative Societies  
+  Location:   Goa  
+  Objectives: Provides financial assistance for purchasing transport vehicles.  
+  Details:    
+  Financial Assistance: 50% loan, 30% subsidy, and 20% society’s share on ex   showroom price.
+  Repayment: Loan repayable in seven equal annual installments with interest.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT54)
+
+37.Scheme name: Computerization for Primary Agricultural Cooperative Societies
+  Target Group:   Primary Agricultural Cooperative Societies  
+  Location:   Goa  
+  Objectives: Provides financial support for computerization.  
+  Details:    
+  Societies with 3 or fewer branches: Rs. 1,00,000/    (50% loan, 50% subsidy).
+  Societies with more than 3 branches: Rs. 2,00,000/    (50% loan, 50% subsidy).  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT55)
+
+38. Scheme name: Loan and Subsidy for Computer and Accessories
+  Target Group:   Cooperative Societies  
+  Location:  Goa  
+  Objective s:Provides financial assistance for purchasing computer accessories.  
+  Details:    
+  General: 50% loan and 50% subsidy up to Rs. 2,00,000/   .
+  Special: 35% loan and 65% subsidy for societies with 40% SC/ST shareholders.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT56)
+
+39.Scheme name: Financial Assistance to Publishers for Publishing Goan Authors
+  Target Group:   Goan Publishers  
+  Location:  Goa  
+  Objectives: Provides financial assistance for publishing books by Goan authors.  
+  Details:    
+  Eligibility: Publishers with substantial experience, publishing a minimum of 500 copies.
+  Conditions: No anthology/compilation, originality required, no second edition grants.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT57)
+
+40. Scheme name:Financial Assistance to Mahila Mandals/Women’s SHGs     Swawlamban
+  Target Group:   Women SHGs  
+  Location:   Goa  
+  Objectives:  Provides financial assistance for training women in various trades.  
+  Details:    
+  Grant: Rs. 20,000/    annually, Rs. 5,000/    for raw materials, and Rs. 5,000/    for trainer honorarium.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT58)
+
+41.Scheme name: Scheme of Term Loan Assistance to Qualified Professionals
+  Target Group:   Qualified Professionals  
+  Location:   Goa  
+  Objectives:   Provides financial assistance for setting up professional practices.  
+  Details:    
+  Eligible Professions: Medical, IT, legal, accounting, engineering, architecture, etc.
+  Conditions: Minimum 2 years experience, age limit up to 55 years, mortgage requirement.  
+  Link:   [More Info](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT59)
+
+42. Scheme name:General Term Loan Scheme
+  Provider  : EDC Ltd
+  Location  : Goa
+  Eligibility  : All units set up as micro, small, medium, and large enterprises and services sector.
+  Objectives: Loans for creating fixed assets and repaying outstanding loans acquired in the past 18 months.
+  Link  : [General Term Loan Scheme](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT60)
+
+43.Scheme name:Composite Loan Scheme for EDC Clients with Good Track Record
+  Provider  : EDC Ltd
+  Location  : Goa
+  Eligibility  : Existing or past clients of EDC with a good repayment track record for at least three years.
+  Objectives: Composite financial assistance, including term loans against fixed assets and working capital.
+  Link  : [Composite Loan Scheme](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT61)
+
+44.Scheme name:Preferential Purchase Scheme
+  Provider  : Handicrafts Corporation
+  Location  : Goa
+  Eligibility  : MSME units in Goa.
+  Objectives: Government procurement of locally manufactured products under rate contracts.
+  Link  : [Preferential Purchase Scheme](https://goaonline.gov.in/appln/uil/deptservices?__DocId=IFT&__ServiceId=IFT62)
+
+45.Scheme name:Assistance for Quality Certification
+  Provider  : Industry & Mines Department
+  Location  : Gujarat
+  Eligibility  : MSMEs under the MSMED Act 2006.
+  Objectives: 50% assistance for certification fees and quality testing equipment, up to Rs. 10 lakh.
+  Link  : [Assistance for Quality Certification](https://msmec.gujarat.gov.in/industrialpolicy_schemetwenty?url=GUIDELINE_Assistance)
+
+46.Scheme name:Assistance of Capital Investment Subsidy, Interest Subsidy, and CGTMSE Fees
+  Provider  : Industry & Mines Department
+  Location  : Gujarat
+  Eligibility  : MSMEs under the MSMED Act 2006.
+  Objectives: Interest subsidy on term loans, with specific rates and caps depending on the enterprise type.
+  Link  : [Capital Investment and Interest Subsidy](https://msmec.gujarat.gov.in/industrialpolicy_schemetwenty?url=Guidline   Assistance   of   Capital   Investment)
+
+47.Scheme name:Financial Support to MSMEs in ZED Certification
+  Provider  : Industry & Mines Department
+  Location  : Gujarat
+  Eligibility  : MSMEs under the MSMED Act 2007.
+  Objectives: 50% subsidy on ZED Certification charges after deducting central government assistance, up to Rs. 50,000.
+  Link  : [ZED Certification](https://msmec.gujarat.gov.in/industrialpolicy_schemetwenty?url=Financial   Support   to   MSMEs   in   ZED   Certification)
+
+48.Scheme name:Scheme for Financial Assistance in Implementation of ICT
+  Provider  : Industry & Mines Department
+  Location  : Gujarat
+  Eligibility  : MSMEs under the MSMED Act 2006.
+  Objectives: 65   75% of capital expenditure for ICT facilities, up to Rs. 5 lakh.
+  Link  : [ICT Implementation](https://msmec.gujarat.gov.in/industrialpolicy_schemetwenty?url=financial   assistance   in   implementation   of   (ICT))
+
+49.Scheme name:Assistance for Technology Acquisition
+  Provider  : Industry & Mines Department
+  Location  : Gujarat
+  Eligibility  : MSMEs under the MSMED Act 2006.
+  Objectives: 65   70% of technology acquisition costs, including royalties, up to Rs. 50 lakh.
+  Link  : [Technology Acquisition](https://msmec.gujarat.gov.in/industrialpolicy_schemetwenty?url=Assistance   for   Technology   Acquisition)
+
+
+
+
+
+ 
+
